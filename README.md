@@ -33,7 +33,7 @@ A Python script that checks passwords stored in your Bitwarden vault against the
 
 1. **Clone or download this repository:**
     ```bash
-    git clone https://github.com/yourusername/bitwarden-password-checker.git
+    git clone https://github.com/Ahmed9190/bitwarden-password-checker.git
     cd bitwarden-password-checker
     ```
 
@@ -207,7 +207,7 @@ If you encounter issues:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Unlicense - see the [LICENSE](LICENSE) file for details.
 
 ## Disclaimer
 
